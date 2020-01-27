@@ -1,0 +1,7 @@
+C:\Users\katarina.johansson3\Desktop\Superhero\Superhero\Superhero\bin\Debug\Superhero.exe.config
+C:\Users\katarina.johansson3\Desktop\Superhero\Superhero\Superhero\bin\Debug\Superhero.exe
+C:\Users\katarina.johansson3\Desktop\Superhero\Superhero\Superhero\bin\Debug\Superhero.pdb
+C:\Users\katarina.johansson3\Desktop\Superhero\Superhero\Superhero\obj\Debug\Superhero.csprojAssemblyReference.cache
+C:\Users\katarina.johansson3\Desktop\Superhero\Superhero\Superhero\obj\Debug\Superhero.csproj.CoreCompileInputs.cache
+C:\Users\katarina.johansson3\Desktop\Superhero\Superhero\Superhero\obj\Debug\Superhero.exe
+C:\Users\katarina.johansson3\Desktop\Superhero\Superhero\Superhero\obj\Debug\Superhero.pdb
